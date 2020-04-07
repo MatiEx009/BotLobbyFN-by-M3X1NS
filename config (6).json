@@ -1,0 +1,15 @@
+{
+    "email": "tu twój email",
+    "password": "tu twoje has³o",
+    "cid": "CID_028_Athena_Commando_F",
+    "bid": "BID_004_BlackKnight",
+    "eid": "Pickaxe_ID_015_HolidayCandyCane",
+    "banner": "otherbanner21",
+    "banner_colour": "defaultcolor18",
+    "level": 100,
+    "bp_tier": 100,
+    "status": "Lobby battle royale - 1/16",
+    "platform": "PSN",
+    "debug": false,
+    "friendaccept": true
+}
